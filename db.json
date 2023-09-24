@@ -187,5 +187,31 @@
       "name": "Wonder Woman",
       "alterEgo": "Princess Diana"
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "bret",
+      "email": "leanne@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "ervin",
+      "email": "ehowell@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Brittany Flowers",
+      "username": "brittany",
+      "email": "britflowers@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Patrick Dillon",
+      "username": "patrick",
+      "email": "dillonpatrick@gmail.com"
+    }
   ]
 }
