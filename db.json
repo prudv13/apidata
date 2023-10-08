@@ -256,6 +256,6 @@
       "id": 4,
       "channelId": "patrickdillon",
       "courses": ["angular", "unit testing"],
-    },
+    }
   ]
 }
