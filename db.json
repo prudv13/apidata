@@ -193,25 +193,29 @@
       "id": 1,
       "name": "Leanne Graham",
       "username": "bret",
-      "email": "leanne@gmail.com"
+      "email": "leanne@gmail.com",
+      "channelId": "leannegraham"
     },
     {
       "id": 2,
       "name": "Ervin Howell",
       "username": "ervin",
-      "email": "ehowell@gmail.com"
+      "email": "ehowell@gmail.com",
+      "channelId": "ervinhowell"
     },
     {
       "id": 3,
       "name": "Brittany Flowers",
       "username": "brittany",
-      "email": "britflowers@gmail.com"
+      "email": "britflowers@gmail.com",
+      "channelId": "brittanyflowers"
     },
     {
       "id": 4,
       "name": "Patrick Dillon",
       "username": "patrick",
-      "email": "dillonpatrick@gmail.com"
+      "email": "dillonpatrick@gmail.com",
+      "channelId": "patrickdillon"
     }
   ],
   "friends": [
@@ -231,5 +235,27 @@
       "id": 4,
       "name": "Patrick Dillon"
     }
+  ],
+  "channels": [
+    {
+      "id": 1,
+      "channelId": "leannegraham",
+      "courses": ["react", "webpack"],
+    },
+    {
+      "id": 2,
+      "channelId": "ervinhowell",
+      "courses": ["HTML", "CSS", "JavaScript"],
+    },
+    {
+      "id": 3,
+      "channelId": "brittanyflowers",
+      "courses": ["project management", "data analysis"],
+    },
+    {
+      "id": 4,
+      "channelId": "patrickdillon",
+      "courses": ["angular", "unit testing"],
+    },
   ]
 }
