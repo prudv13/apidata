@@ -240,22 +240,22 @@
     {
       "id": 1,
       "channelId": "leannegraham",
-      "courses": ["react", "webpack"],
+      "courses": ["react", "webpack"]
     },
     {
       "id": 2,
       "channelId": "ervinhowell",
-      "courses": ["HTML", "CSS", "JavaScript"],
+      "courses": ["HTML", "CSS", "JavaScript"]
     },
     {
       "id": 3,
       "channelId": "brittanyflowers",
-      "courses": ["project management", "data analysis"],
+      "courses": ["project management", "data analysis"]
     },
     {
       "id": 4,
       "channelId": "patrickdillon",
-      "courses": ["angular", "unit testing"],
+      "courses": ["angular", "unit testing"]
     }
   ]
 }
